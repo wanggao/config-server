@@ -4,7 +4,7 @@ server:
 zipkin:
   collector:
     rabbitmq:
-      addresses: 10.0.4.125:5682
+      addresses: 183.134.76.160:5682
       password: root
       username: root
       queue: zipkin
