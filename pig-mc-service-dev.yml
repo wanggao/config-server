@@ -1,0 +1,12 @@
+server:
+  port: 4050
+
+sms:
+  dingtalk:
+    webhook: none
+  aliyun:
+    accessKey: none
+    secretKey: none
+    channels:
+      loginCodeChannel: none
+      serviceStatusChange: none
