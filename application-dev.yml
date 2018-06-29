@@ -16,7 +16,7 @@ spring:
     password: dreamlife170920
   rabbitmq:
     host: 183.134.76.160
-    port: 5682
+    port: 25672
     username: root
     password: root
   http:
